@@ -1,4 +1,4 @@
-# MPIN Strength Detector (4-digit / 6-digit)
+## MPIN Strength Detector (4-digit / 6-digit)
 
 - Developed a lightweight, real-time security engine to evaluate the strength of user-entered MPINs (4-digit or 6-digit) and classify them as Weak or Strong.
 - The model identifies vulnerabilities by detecting commonly used patterns (sequential, repetitive, mirror-based, coupling, arithmatic progression, etc.) and demographic combinations to prevent data breaches, unauthorized access, and unethical hacking attempts.
